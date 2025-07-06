@@ -1,1 +1,4 @@
-cd 
+# requirements.txt
+requests
+pytest
+# Add other dependencies as needed
