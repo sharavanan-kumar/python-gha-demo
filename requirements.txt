@@ -1,4 +1,5 @@
 # requirements.txt
 requests
 pytest
+numpy
 # Add other dependencies as needed
